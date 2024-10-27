@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+//heyyyyy :p
 
 //the main program loop
 void program_loop(){
@@ -10,7 +11,7 @@ void read(char* str){
 
 }
 
-//parses input line
+//parses input line 
 char **parse(char *line){
 
 }
